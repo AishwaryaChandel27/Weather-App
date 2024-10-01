@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/AishwaryaChandel27/weather-app.git
    cd weather-app
 ## Setup
 
@@ -67,30 +67,4 @@ Deploy the project with a single click.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Notes on Markdown Syntax:
-Headings are created using # for different levels (e.g., ## for a subheading).
-Code blocks are enclosed with triple backticks 
-‘
-‘
-‘
-‘‘‘ and can specify the language (e.g., bash for shell commands).
-Bold text is made using double asterisks 
-‘
-∗
-∗
-𝑡
-𝑒
-𝑥
-𝑡
-∗
-∗
-‘
-‘∗∗text∗∗‘.
-Links are created with [text](URL) syntax.
-Lists are created using hyphens (-) or asterisks (*).
-This README file is now fully formatted with Markdown syntax for GitHub, including all the elements. It should display well on GitHub and provide clear instructions and information to users.
 
-css
-Copy code
-
-This format should work perfectly in a GitHub README file, making it easy to follow the setu
